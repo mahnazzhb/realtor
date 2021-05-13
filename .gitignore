@@ -4,5 +4,6 @@
 __pycache__/
 local_setting.py
 db.sqlite3
-media
+/media
 venv1
+/static
